@@ -1,0 +1,3 @@
+This simple app was developed for my subject on Remote, Mobile, and Cloud Computing. The project consited in creating an Android App which used at least on containerized service deployed in a virtual cloud environment. This Repository contains only the client code. It was developed on Android Studio with Kotlin.
+
+The results of the proyect proove underwhelming: no image processing was done to remove background objects, the response time is quite high probably due to the client comunicating with the API via the server and not directly. It does satisfy the requirements of the project although more development could help improve performance.
